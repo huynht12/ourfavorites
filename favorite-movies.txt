@@ -4,3 +4,6 @@ Kill Bill
 Friday
 Black Dynamite
 I.T.
+Avengers
+The Butterfly Effects
+Django Unchained
